@@ -1,6 +1,6 @@
-# Learn Redux
+# Learn Redux Course (RDX1)
 
-A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
+A simple React + Redux implementation course by WesBos
 
 ## Running
 
